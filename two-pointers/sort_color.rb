@@ -4,8 +4,8 @@
 
 
 def sort_colors(colors)
-  red = 0
-  white = 0
+  red = 0    # starting position
+  white = 0  # Current position
   blue = colors.length - 1
 
   (0..colors.length - 1).each do|i|
