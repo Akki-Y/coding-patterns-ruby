@@ -1,6 +1,6 @@
 # Sort the array in place so that the elements of the same color are adjacent, with the colors 
 # in the order of red, white, and blue?
-# sort colors representing red-0 , white-1, blue-2
+# sort colors representing red-0 , white-1, blue-2 (National Flag algorithm)
 
 
 def sort_colors(colors)
